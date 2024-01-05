@@ -59,7 +59,7 @@ def numberValidator(number, name):
     else:
         print (f'{mag}==> Invalid...{red}{number}')
         
-# numberValidator('sawdyk12d3@gmail.com')
+# 
 
 #Generating 150,000 numbers
 def numberGenerator(name,number):
